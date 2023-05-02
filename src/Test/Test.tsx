@@ -1,5 +1,5 @@
 import React from 'react';
-function Test() {
+function App() {
   return (
         <a
           className="App-link"
